@@ -1,0 +1,8 @@
+{
+    "name": "wangyongdong/qrcode",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "files": ["init.php"]
+    }
+}
